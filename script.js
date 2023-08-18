@@ -12,3 +12,4 @@ function updateVisualizer(amplitude) {
 
 // Simulate voice input and update the visualizer
 function simulateVoiceInput() {
+  const maxAmplitude = 1; // Adjust this value based on the input sensitivity
