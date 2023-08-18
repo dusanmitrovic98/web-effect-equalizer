@@ -5,3 +5,4 @@ function updateVisualizer(amplitude) {
   const maxHeight = 50; // Maximum bar height
   const barHeight = amplitude * maxHeight;
 
+  bars.forEach((bar) => {
