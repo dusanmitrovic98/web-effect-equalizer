@@ -9,3 +9,4 @@ function updateVisualizer(amplitude) {
     bar.setAttribute("height", barHeight);
   });
 }
+
