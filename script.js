@@ -11,3 +11,4 @@ function updateVisualizer(amplitude) {
 }
 
 // Simulate voice input and update the visualizer
+function simulateVoiceInput() {
