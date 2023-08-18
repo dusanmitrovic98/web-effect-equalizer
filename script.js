@@ -6,3 +6,4 @@ function updateVisualizer(amplitude) {
   const barHeight = amplitude * maxHeight;
 
   bars.forEach((bar) => {
+    bar.setAttribute("height", barHeight);
