@@ -16,3 +16,4 @@ function simulateVoiceInput() {
   const randomAmplitude = Math.random() * maxAmplitude;
   updateVisualizer(randomAmplitude);
 }
+
