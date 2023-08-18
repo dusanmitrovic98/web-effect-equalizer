@@ -14,3 +14,4 @@ function updateVisualizer(amplitude) {
 function simulateVoiceInput() {
   const maxAmplitude = 1; // Adjust this value based on the input sensitivity
   const randomAmplitude = Math.random() * maxAmplitude;
+  updateVisualizer(randomAmplitude);
