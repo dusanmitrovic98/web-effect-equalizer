@@ -8,3 +8,4 @@ function updateVisualizer(amplitude) {
   bars.forEach((bar) => {
     bar.setAttribute("height", barHeight);
   });
+}
