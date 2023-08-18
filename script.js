@@ -17,3 +17,4 @@ function simulateVoiceInput() {
   updateVisualizer(randomAmplitude);
 }
 
+// Simulate voice input every 2 seconds
